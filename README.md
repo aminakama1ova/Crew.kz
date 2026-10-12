@@ -1,2 +1,8 @@
 # Crew.kz
 Crew.kz is an online recruitment platform for Kazakhstani seafarers. It connects shipping companies with certified local seafarers and replaces the current search through acquaintances and phone calls.
+Crew.kz is an online recruitment platform that helps Kazakhstani shipping companies find and verify local seafarers. Since January 2025, command positions on Kazakh-flagged ships must be held by Kazakhstani citizens, yet companies still hire through acquaintances and phone calls, with no single place to see who is available and qualified. General job sites like hh.kz don't handle maritime requirements such as certificates of competency, STCW, vessel-type experience, or document expiry dates, so recruiters check everything by hand.
+
+Crew.kz solves this with a specialized platform. Each seafarer creates a digital profile with verified documents, sea service, and a "ready to join" date. Companies post vacancies by rank and vessel type and are matched with suitable candidates, with automatic reminders before documents expire. The platform is free for seafarers, and employers pay a fixed fee per hire or a monthly subscription. We start in the Caspian region, where the law creates real demand, and plan to expand to other Caspian countries and the offshore fleet.
+
+The project is led by Amina Kamalova, a maritime student who has already studied the industry from the inside: she interviewed deck officers and engineers about their daily problems, analyzed the crew-nationality law and the staffing situation at KMTF, and previously wrote an article on the shallowing of the Caspian Sea. We are now looking for a pilot partner and support to build the first version and prove that Kazakhstani crews can be hired faster.
+
